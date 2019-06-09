@@ -1,0 +1,11 @@
+D:\Lagash\EjerciciosJuliten\EJercicio album remake\bin\Debug\netcoreapp2.2\EJercicio album remake.deps.json
+D:\Lagash\EjerciciosJuliten\EJercicio album remake\bin\Debug\netcoreapp2.2\EJercicio album remake.runtimeconfig.json
+D:\Lagash\EjerciciosJuliten\EJercicio album remake\bin\Debug\netcoreapp2.2\EJercicio album remake.runtimeconfig.dev.json
+d:\Lagash\EjerciciosJuliten\EJercicio album remake\bin\Debug\netcoreapp2.2\EJercicio album remake.dll
+d:\Lagash\EjerciciosJuliten\EJercicio album remake\bin\Debug\netcoreapp2.2\EJercicio album remake.pdb
+d:\Lagash\EjerciciosJuliten\EJercicio album remake\obj\Debug\netcoreapp2.2\EJercicio album remake.csprojAssemblyReference.cache
+d:\Lagash\EjerciciosJuliten\EJercicio album remake\obj\Debug\netcoreapp2.2\EJercicio album remake.csproj.CoreCompileInputs.cache
+d:\Lagash\EjerciciosJuliten\EJercicio album remake\obj\Debug\netcoreapp2.2\EJercicio album remake.AssemblyInfoInputs.cache
+d:\Lagash\EjerciciosJuliten\EJercicio album remake\obj\Debug\netcoreapp2.2\EJercicio album remake.AssemblyInfo.cs
+d:\Lagash\EjerciciosJuliten\EJercicio album remake\obj\Debug\netcoreapp2.2\EJercicio album remake.dll
+d:\Lagash\EjerciciosJuliten\EJercicio album remake\obj\Debug\netcoreapp2.2\EJercicio album remake.pdb

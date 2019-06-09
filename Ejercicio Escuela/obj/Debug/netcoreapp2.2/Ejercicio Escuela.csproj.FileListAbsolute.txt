@@ -1,0 +1,11 @@
+d:\Lagash\EjerciciosJuliten\Ejercicio Escuela\obj\Debug\netcoreapp2.2\Ejercicio Escuela.csprojAssemblyReference.cache
+d:\Lagash\EjerciciosJuliten\Ejercicio Escuela\obj\Debug\netcoreapp2.2\Ejercicio Escuela.csproj.CoreCompileInputs.cache
+d:\Lagash\EjerciciosJuliten\Ejercicio Escuela\obj\Debug\netcoreapp2.2\Ejercicio Escuela.AssemblyInfoInputs.cache
+d:\Lagash\EjerciciosJuliten\Ejercicio Escuela\obj\Debug\netcoreapp2.2\Ejercicio Escuela.AssemblyInfo.cs
+D:\Lagash\EjerciciosJuliten\Ejercicio Escuela\bin\Debug\netcoreapp2.2\Ejercicio Escuela.deps.json
+D:\Lagash\EjerciciosJuliten\Ejercicio Escuela\bin\Debug\netcoreapp2.2\Ejercicio Escuela.runtimeconfig.json
+D:\Lagash\EjerciciosJuliten\Ejercicio Escuela\bin\Debug\netcoreapp2.2\Ejercicio Escuela.runtimeconfig.dev.json
+d:\Lagash\EjerciciosJuliten\Ejercicio Escuela\bin\Debug\netcoreapp2.2\Ejercicio Escuela.dll
+d:\Lagash\EjerciciosJuliten\Ejercicio Escuela\bin\Debug\netcoreapp2.2\Ejercicio Escuela.pdb
+d:\Lagash\EjerciciosJuliten\Ejercicio Escuela\obj\Debug\netcoreapp2.2\Ejercicio Escuela.dll
+d:\Lagash\EjerciciosJuliten\Ejercicio Escuela\obj\Debug\netcoreapp2.2\Ejercicio Escuela.pdb

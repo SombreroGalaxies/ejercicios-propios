@@ -1,0 +1,11 @@
+d:\Lagash\EjerciciosJuliten\Ejercicio Figuras\obj\Debug\netcoreapp2.2\Ejercicio Figuras.csprojAssemblyReference.cache
+d:\Lagash\EjerciciosJuliten\Ejercicio Figuras\obj\Debug\netcoreapp2.2\Ejercicio Figuras.csproj.CoreCompileInputs.cache
+d:\Lagash\EjerciciosJuliten\Ejercicio Figuras\obj\Debug\netcoreapp2.2\Ejercicio Figuras.AssemblyInfoInputs.cache
+d:\Lagash\EjerciciosJuliten\Ejercicio Figuras\obj\Debug\netcoreapp2.2\Ejercicio Figuras.AssemblyInfo.cs
+D:\Lagash\EjerciciosJuliten\Ejercicio Figuras\bin\Debug\netcoreapp2.2\Ejercicio Figuras.deps.json
+D:\Lagash\EjerciciosJuliten\Ejercicio Figuras\bin\Debug\netcoreapp2.2\Ejercicio Figuras.runtimeconfig.json
+D:\Lagash\EjerciciosJuliten\Ejercicio Figuras\bin\Debug\netcoreapp2.2\Ejercicio Figuras.runtimeconfig.dev.json
+d:\Lagash\EjerciciosJuliten\Ejercicio Figuras\bin\Debug\netcoreapp2.2\Ejercicio Figuras.dll
+d:\Lagash\EjerciciosJuliten\Ejercicio Figuras\bin\Debug\netcoreapp2.2\Ejercicio Figuras.pdb
+d:\Lagash\EjerciciosJuliten\Ejercicio Figuras\obj\Debug\netcoreapp2.2\Ejercicio Figuras.dll
+d:\Lagash\EjerciciosJuliten\Ejercicio Figuras\obj\Debug\netcoreapp2.2\Ejercicio Figuras.pdb

@@ -1,0 +1,11 @@
+D:\Lagash\EjerciciosJuliten\Ejercicio Animales\bin\Debug\netcoreapp2.2\Ejercicio Animales.deps.json
+D:\Lagash\EjerciciosJuliten\Ejercicio Animales\bin\Debug\netcoreapp2.2\Ejercicio Animales.runtimeconfig.json
+D:\Lagash\EjerciciosJuliten\Ejercicio Animales\bin\Debug\netcoreapp2.2\Ejercicio Animales.runtimeconfig.dev.json
+d:\Lagash\EjerciciosJuliten\Ejercicio Animales\bin\Debug\netcoreapp2.2\Ejercicio Animales.dll
+d:\Lagash\EjerciciosJuliten\Ejercicio Animales\bin\Debug\netcoreapp2.2\Ejercicio Animales.pdb
+d:\Lagash\EjerciciosJuliten\Ejercicio Animales\obj\Debug\netcoreapp2.2\Ejercicio Animales.csprojAssemblyReference.cache
+d:\Lagash\EjerciciosJuliten\Ejercicio Animales\obj\Debug\netcoreapp2.2\Ejercicio Animales.csproj.CoreCompileInputs.cache
+d:\Lagash\EjerciciosJuliten\Ejercicio Animales\obj\Debug\netcoreapp2.2\Ejercicio Animales.AssemblyInfoInputs.cache
+d:\Lagash\EjerciciosJuliten\Ejercicio Animales\obj\Debug\netcoreapp2.2\Ejercicio Animales.AssemblyInfo.cs
+d:\Lagash\EjerciciosJuliten\Ejercicio Animales\obj\Debug\netcoreapp2.2\Ejercicio Animales.dll
+d:\Lagash\EjerciciosJuliten\Ejercicio Animales\obj\Debug\netcoreapp2.2\Ejercicio Animales.pdb
